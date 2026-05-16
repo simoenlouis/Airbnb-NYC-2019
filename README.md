@@ -1,5 +1,7 @@
 # Airbnb-NYC-2019
 
+Kaggle Link:(https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+
 # Airbnb NYC 2019 Data Analysis Report
 
 ## Project Overview
@@ -151,5 +153,10 @@ This analysis demonstrates that Airbnb market performance in New York City is in
 * host management quality
 
 Rather than relying only on averages, the project focused on understanding customer behavior and identifying the characteristics of successful listings.
+
+## Author
+- Simoen Louis
+
+- GitHub: simoenlouis
 
 The findings may help hosts optimize their listings and support better business decisions in short-term rental marketplaces.
