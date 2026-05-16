@@ -152,8 +152,8 @@ This analysis demonstrates that Airbnb market performance in New York City is in
 * pricing strategy
 * host management quality
 
-Rather than relying only on averages, the project focused on understanding customer behavior and identifying the characteristics of successful listings.
-The findings may help hosts optimize their listings and support better business decisions in short-term rental marketplaces.
+* Rather than relying only on averages, the project focused on understanding customer behavior and identifying the characteristics of successful listings.
+* The findings may help hosts optimize their listings and support better business decisions in short-term rental marketplaces.
 
 ## Author
 - Simoen Louis
