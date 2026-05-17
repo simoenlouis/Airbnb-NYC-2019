@@ -153,6 +153,14 @@ This analysis demonstrates that Airbnb market performance in New York City is in
 * host management quality
   
   ---
+<img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/b82f2148-5154-4828-bc11-679ced8f7ebd" />
+<img width="571" height="433" alt="image" src="https://github.com/user-attachments/assets/c3bfc72a-82f3-4a19-bd5a-6455e8179aa4" />
+<img width="589" height="433" alt="image" src="https://github.com/user-attachments/assets/6a7361d2-07e6-48ff-b47a-2e566193a78d" />
+<img width="571" height="433" alt="image" src="https://github.com/user-attachments/assets/a1615fe5-551a-4b20-b4d3-fa73fa770ea3" />
+<img width="589" height="433" alt="image" src="https://github.com/user-attachments/assets/5db95d5a-d87e-4657-ade4-365f027daa01" />
+<img width="571" height="433" alt="image" src="https://github.com/user-attachments/assets/06b4cc72-e32e-452b-87c1-d56d4169ea02" />
+
+  ---
   
 * Rather than relying only on averages, the project focused on understanding customer behavior and identifying the characteristics of successful listings.
 * The findings may help hosts optimize their listings and support better business decisions in short-term rental marketplaces.
