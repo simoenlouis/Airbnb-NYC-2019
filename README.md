@@ -127,6 +127,12 @@ Listings mentioning:
 often appeared among highly reviewed properties.
 
 ---
+* The regression model explains approximately 47% of Airbnb price variability, indicating that location, room type, availability, and booking constraints are important pricing factors.
+* Regression analysis confirmed that the selected features collectively have a statistically significant relationship with Airbnb prices.
+* Listings in Manhattan are associated with roughly 77% higher prices compared to the reference borough, holding other factors constant.
+* Private rooms and shared rooms were associated with significantly lower prices compared to entire homes/apartments.
+* Availability and minimum-night requirements also showed statistically significant effects on pricing behavior.
+---
 
 # Business Insights
 
