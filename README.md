@@ -159,6 +159,11 @@ This analysis demonstrates that Airbnb market performance in New York City is in
 <img width="571" height="433" alt="image" src="https://github.com/user-attachments/assets/a1615fe5-551a-4b20-b4d3-fa73fa770ea3" />
 <img width="589" height="433" alt="image" src="https://github.com/user-attachments/assets/5db95d5a-d87e-4657-ade4-365f027daa01" />
 <img width="571" height="433" alt="image" src="https://github.com/user-attachments/assets/06b4cc72-e32e-452b-87c1-d56d4169ea02" />
+<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/1a607ed9-e94a-4bc7-b203-7aaf5cdb6509" />
+<img width="961" height="878" alt="image" src="https://github.com/user-attachments/assets/236d836a-f7a0-4bfd-9cf1-687c28686aa6" />
+<img width="1010" height="701" alt="image" src="https://github.com/user-attachments/assets/61adc474-4a88-4b57-a2b5-8d80bc5f5d7b" />
+<img width="1010" height="701" alt="image" src="https://github.com/user-attachments/assets/5cfae5f9-f990-4634-811c-b81a76b6a327" />
+
 
   ---
   
